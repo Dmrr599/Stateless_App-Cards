@@ -35,5 +35,5 @@ Docente: M.T. I Marco Antonio Ramírez Hernández
 Periodo: Septiembre – Diciembre 2022
 # Elaborado por: 
 Diana Marina Roldán Ríos Matrícula - 190583
-![LOGO TIC](https://user-images.githubusercontent.com/77304438/194678481-7f93cce6-1c69-4e19-9054-ad27f392ff86.png)
-![LOGO UTXJ 2019](https://user-images.githubusercontent.com/77304438/194678490-1fb11fac-2623-4805-b33e-5f74500ae913.png)
+<img src="https://user-images.githubusercontent.com/77304407/194476270-7d5ae341-0c51-4832-b1d5-0eeb1e1e7730.jpg" height="200" width="300"></img>
+<img src="https://user-images.githubusercontent.com/77304407/194476462-17681aac-2dae-458e-ade3-f9195d8ce615.png" height="200" width="500"></img>
