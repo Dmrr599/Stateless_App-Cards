@@ -19,8 +19,9 @@ Se modifico el código inicial y se crearon 3 cards en las cuales se metió la i
 Se crearon los botones con los cuales se llama a su determinada tarjeta.
 Una vez terminada la app se probó su funcionamiento en un teléfono móvil, para esto se construyó el apk con el comando flutter build apk.
 ## Resultados
-
-# Datos de la Académicos
+![image](https://user-images.githubusercontent.com/77304438/194677113-0c1f8fb7-9861-42e6-81c9-43d3781001ba.png)
+![image](https://user-images.githubusercontent.com/77304438/194677127-b89d123e-c345-49b9-9091-037fe7a61209.png)
+#Datos de la Académica
 Universidad Tecnológica de Xicotepec de Juarez
 <br/>
 Área académica: Tecnologías de la Información
